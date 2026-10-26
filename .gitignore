@@ -1,0 +1,9 @@
+# raw API responses: PR bodies, logins, file contents (and 550 MB)
+cache/
+# per-PR records (other people's PR URLs), run logs, local run state
+data/
+out/progress.json
+out/progress.json.tmp
+out/STOP
+__pycache__/
+.DS_Store

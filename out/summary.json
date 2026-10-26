@@ -1,0 +1,1272 @@
+{
+ "phrase": "\"Generated with Claude Code\" in PR body, merged, public repos",
+ "window_dates_utc": {
+  "from": "2026-10-17",
+  "to": "2026-10-23"
+ },
+ "sampled_minutes": 363,
+ "sampled_minutes_per_day": {
+  "2026-10-17": 52,
+  "2026-10-18": 51,
+  "2026-10-19": 52,
+  "2026-10-20": 52,
+  "2026-10-21": 52,
+  "2026-10-22": 52,
+  "2026-10-23": 52
+ },
+ "sampled_minute_starts": [
+  "2026-10-17T00:13:00Z",
+  "2026-10-17T00:28:00Z",
+  "2026-10-17T00:43:00Z",
+  "2026-10-17T01:20:00Z",
+  "2026-10-17T01:35:00Z",
+  "2026-10-17T02:27:00Z",
+  "2026-10-17T02:42:00Z",
+  "2026-10-17T03:34:00Z",
+  "2026-10-17T03:49:00Z",
+  "2026-10-17T04:41:00Z",
+  "2026-10-17T04:56:00Z",
+  "2026-10-17T05:03:00Z",
+  "2026-10-17T05:48:00Z",
+  "2026-10-17T06:10:00Z",
+  "2026-10-17T06:25:00Z",
+  "2026-10-17T06:55:00Z",
+  "2026-10-17T07:02:00Z",
+  "2026-10-17T07:17:00Z",
+  "2026-10-17T08:09:00Z",
+  "2026-10-17T08:24:00Z",
+  "2026-10-17T09:16:00Z",
+  "2026-10-17T09:31:00Z",
+  "2026-10-17T10:23:00Z",
+  "2026-10-17T10:38:00Z",
+  "2026-10-17T11:30:00Z",
+  "2026-10-17T11:45:00Z",
+  "2026-10-17T12:07:00Z",
+  "2026-10-17T12:37:00Z",
+  "2026-10-17T12:52:00Z",
+  "2026-10-17T13:44:00Z",
+  "2026-10-17T13:59:00Z",
+  "2026-10-17T14:06:00Z",
+  "2026-10-17T14:51:00Z",
+  "2026-10-17T15:13:00Z",
+  "2026-10-17T15:58:00Z",
+  "2026-10-17T16:05:00Z",
+  "2026-10-17T16:20:00Z",
+  "2026-10-17T17:12:00Z",
+  "2026-10-17T17:27:00Z",
+  "2026-10-17T18:19:00Z",
+  "2026-10-17T18:34:00Z",
+  "2026-10-17T18:49:00Z",
+  "2026-10-17T19:26:00Z",
+  "2026-10-17T19:41:00Z",
+  "2026-10-17T20:33:00Z",
+  "2026-10-17T20:48:00Z",
+  "2026-10-17T21:40:00Z",
+  "2026-10-17T21:55:00Z",
+  "2026-10-17T22:02:00Z",
+  "2026-10-17T22:47:00Z",
+  "2026-10-17T23:09:00Z",
+  "2026-10-17T23:54:00Z",
+  "2026-10-18T00:01:00Z",
+  "2026-10-18T00:16:00Z",
+  "2026-10-18T00:31:00Z",
+  "2026-10-18T01:08:00Z",
+  "2026-10-18T01:23:00Z",
+  "2026-10-18T02:15:00Z",
+  "2026-10-18T03:22:00Z",
+  "2026-10-18T03:37:00Z",
+  "2026-10-18T04:29:00Z",
+  "2026-10-18T04:44:00Z",
+  "2026-10-18T05:36:00Z",
+  "2026-10-18T05:51:00Z",
+  "2026-10-18T06:13:00Z",
+  "2026-10-18T06:43:00Z",
+  "2026-10-18T06:58:00Z",
+  "2026-10-18T07:05:00Z",
+  "2026-10-18T07:50:00Z",
+  "2026-10-18T08:12:00Z",
+  "2026-10-18T08:57:00Z",
+  "2026-10-18T09:04:00Z",
+  "2026-10-18T09:19:00Z",
+  "2026-10-18T10:11:00Z",
+  "2026-10-18T10:26:00Z",
+  "2026-10-18T11:18:00Z",
+  "2026-10-18T11:33:00Z",
+  "2026-10-18T12:25:00Z",
+  "2026-10-18T12:40:00Z",
+  "2026-10-18T12:55:00Z",
+  "2026-10-18T13:32:00Z",
+  "2026-10-18T13:47:00Z",
+  "2026-10-18T14:39:00Z",
+  "2026-10-18T14:54:00Z",
+  "2026-10-18T15:01:00Z",
+  "2026-10-18T15:46:00Z",
+  "2026-10-18T16:08:00Z",
+  "2026-10-18T16:53:00Z",
+  "2026-10-18T17:00:00Z",
+  "2026-10-18T17:15:00Z",
+  "2026-10-18T18:07:00Z",
+  "2026-10-18T18:22:00Z",
+  "2026-10-18T18:37:00Z",
+  "2026-10-18T19:14:00Z",
+  "2026-10-18T19:29:00Z",
+  "2026-10-18T20:21:00Z",
+  "2026-10-18T20:36:00Z",
+  "2026-10-18T21:28:00Z",
+  "2026-10-18T21:43:00Z",
+  "2026-10-18T22:35:00Z",
+  "2026-10-18T22:50:00Z",
+  "2026-10-18T23:42:00Z",
+  "2026-10-18T23:57:00Z",
+  "2026-10-19T00:04:00Z",
+  "2026-10-19T00:19:00Z",
+  "2026-10-19T00:49:00Z",
+  "2026-10-19T01:11:00Z",
+  "2026-10-19T01:56:00Z",
+  "2026-10-19T02:03:00Z",
+  "2026-10-19T02:18:00Z",
+  "2026-10-19T03:10:00Z",
+  "2026-10-19T03:25:00Z",
+  "2026-10-19T04:17:00Z",
+  "2026-10-19T04:32:00Z",
+  "2026-10-19T05:24:00Z",
+  "2026-10-19T05:39:00Z",
+  "2026-10-19T06:01:00Z",
+  "2026-10-19T06:31:00Z",
+  "2026-10-19T06:46:00Z",
+  "2026-10-19T07:38:00Z",
+  "2026-10-19T07:53:00Z",
+  "2026-10-19T08:00:00Z",
+  "2026-10-19T08:45:00Z",
+  "2026-10-19T09:07:00Z",
+  "2026-10-19T09:52:00Z",
+  "2026-10-19T10:14:00Z",
+  "2026-10-19T10:59:00Z",
+  "2026-10-19T11:06:00Z",
+  "2026-10-19T11:21:00Z",
+  "2026-10-19T12:13:00Z",
+  "2026-10-19T12:28:00Z",
+  "2026-10-19T12:43:00Z",
+  "2026-10-19T13:20:00Z",
+  "2026-10-19T13:35:00Z",
+  "2026-10-19T14:27:00Z",
+  "2026-10-19T14:42:00Z",
+  "2026-10-19T15:34:00Z",
+  "2026-10-19T15:49:00Z",
+  "2026-10-19T16:41:00Z",
+  "2026-10-19T16:56:00Z",
+  "2026-10-19T17:03:00Z",
+  "2026-10-19T17:48:00Z",
+  "2026-10-19T18:10:00Z",
+  "2026-10-19T18:25:00Z",
+  "2026-10-19T18:55:00Z",
+  "2026-10-19T19:02:00Z",
+  "2026-10-19T19:17:00Z",
+  "2026-10-19T20:09:00Z",
+  "2026-10-19T20:24:00Z",
+  "2026-10-19T21:16:00Z",
+  "2026-10-19T21:31:00Z",
+  "2026-10-19T22:23:00Z",
+  "2026-10-19T22:38:00Z",
+  "2026-10-19T23:30:00Z",
+  "2026-10-19T23:45:00Z",
+  "2026-10-20T00:07:00Z",
+  "2026-10-20T00:37:00Z",
+  "2026-10-20T00:52:00Z",
+  "2026-10-20T01:44:00Z",
+  "2026-10-20T01:59:00Z",
+  "2026-10-20T02:06:00Z",
+  "2026-10-20T02:51:00Z",
+  "2026-10-20T03:13:00Z",
+  "2026-10-20T03:58:00Z",
+  "2026-10-20T04:05:00Z",
+  "2026-10-20T04:20:00Z",
+  "2026-10-20T05:12:00Z",
+  "2026-10-20T05:27:00Z",
+  "2026-10-20T06:19:00Z",
+  "2026-10-20T06:34:00Z",
+  "2026-10-20T06:49:00Z",
+  "2026-10-20T07:26:00Z",
+  "2026-10-20T07:41:00Z",
+  "2026-10-20T08:33:00Z",
+  "2026-10-20T08:48:00Z",
+  "2026-10-20T09:40:00Z",
+  "2026-10-20T09:55:00Z",
+  "2026-10-20T10:02:00Z",
+  "2026-10-20T10:47:00Z",
+  "2026-10-20T11:09:00Z",
+  "2026-10-20T11:54:00Z",
+  "2026-10-20T12:01:00Z",
+  "2026-10-20T12:16:00Z",
+  "2026-10-20T12:31:00Z",
+  "2026-10-20T13:08:00Z",
+  "2026-10-20T13:23:00Z",
+  "2026-10-20T14:15:00Z",
+  "2026-10-20T14:30:00Z",
+  "2026-10-20T15:22:00Z",
+  "2026-10-20T15:37:00Z",
+  "2026-10-20T16:29:00Z",
+  "2026-10-20T16:44:00Z",
+  "2026-10-20T17:36:00Z",
+  "2026-10-20T17:51:00Z",
+  "2026-10-20T18:13:00Z",
+  "2026-10-20T18:43:00Z",
+  "2026-10-20T18:58:00Z",
+  "2026-10-20T19:05:00Z",
+  "2026-10-20T19:50:00Z",
+  "2026-10-20T20:12:00Z",
+  "2026-10-20T20:57:00Z",
+  "2026-10-20T21:04:00Z",
+  "2026-10-20T21:19:00Z",
+  "2026-10-20T22:11:00Z",
+  "2026-10-20T22:26:00Z",
+  "2026-10-20T23:18:00Z",
+  "2026-10-20T23:33:00Z",
+  "2026-10-21T00:25:00Z",
+  "2026-10-21T00:40:00Z",
+  "2026-10-21T00:55:00Z",
+  "2026-10-21T01:32:00Z",
+  "2026-10-21T01:47:00Z",
+  "2026-10-21T02:39:00Z",
+  "2026-10-21T02:54:00Z",
+  "2026-10-21T03:01:00Z",
+  "2026-10-21T03:46:00Z",
+  "2026-10-21T04:08:00Z",
+  "2026-10-21T04:53:00Z",
+  "2026-10-21T05:00:00Z",
+  "2026-10-21T05:15:00Z",
+  "2026-10-21T06:07:00Z",
+  "2026-10-21T06:22:00Z",
+  "2026-10-21T06:37:00Z",
+  "2026-10-21T07:14:00Z",
+  "2026-10-21T07:29:00Z",
+  "2026-10-21T08:21:00Z",
+  "2026-10-21T08:36:00Z",
+  "2026-10-21T09:28:00Z",
+  "2026-10-21T09:43:00Z",
+  "2026-10-21T10:35:00Z",
+  "2026-10-21T10:50:00Z",
+  "2026-10-21T11:42:00Z",
+  "2026-10-21T11:57:00Z",
+  "2026-10-21T12:04:00Z",
+  "2026-10-21T12:19:00Z",
+  "2026-10-21T12:49:00Z",
+  "2026-10-21T13:11:00Z",
+  "2026-10-21T13:56:00Z",
+  "2026-10-21T14:03:00Z",
+  "2026-10-21T14:18:00Z",
+  "2026-10-21T15:10:00Z",
+  "2026-10-21T15:25:00Z",
+  "2026-10-21T16:17:00Z",
+  "2026-10-21T16:32:00Z",
+  "2026-10-21T17:24:00Z",
+  "2026-10-21T17:39:00Z",
+  "2026-10-21T18:01:00Z",
+  "2026-10-21T18:31:00Z",
+  "2026-10-21T18:46:00Z",
+  "2026-10-21T19:38:00Z",
+  "2026-10-21T19:53:00Z",
+  "2026-10-21T20:00:00Z",
+  "2026-10-21T20:45:00Z",
+  "2026-10-21T21:07:00Z",
+  "2026-10-21T21:52:00Z",
+  "2026-10-21T22:14:00Z",
+  "2026-10-21T22:59:00Z",
+  "2026-10-21T23:06:00Z",
+  "2026-10-21T23:21:00Z",
+  "2026-10-22T00:13:00Z",
+  "2026-10-22T00:28:00Z",
+  "2026-10-22T00:43:00Z",
+  "2026-10-22T01:20:00Z",
+  "2026-10-22T01:35:00Z",
+  "2026-10-22T02:27:00Z",
+  "2026-10-22T02:42:00Z",
+  "2026-10-22T03:34:00Z",
+  "2026-10-22T03:49:00Z",
+  "2026-10-22T04:41:00Z",
+  "2026-10-22T04:56:00Z",
+  "2026-10-22T05:03:00Z",
+  "2026-10-22T05:48:00Z",
+  "2026-10-22T06:10:00Z",
+  "2026-10-22T06:25:00Z",
+  "2026-10-22T06:55:00Z",
+  "2026-10-22T07:02:00Z",
+  "2026-10-22T07:17:00Z",
+  "2026-10-22T08:09:00Z",
+  "2026-10-22T08:24:00Z",
+  "2026-10-22T09:16:00Z",
+  "2026-10-22T09:31:00Z",
+  "2026-10-22T10:23:00Z",
+  "2026-10-22T10:38:00Z",
+  "2026-10-22T11:30:00Z",
+  "2026-10-22T11:45:00Z",
+  "2026-10-22T12:07:00Z",
+  "2026-10-22T12:37:00Z",
+  "2026-10-22T12:52:00Z",
+  "2026-10-22T13:44:00Z",
+  "2026-10-22T13:59:00Z",
+  "2026-10-22T14:06:00Z",
+  "2026-10-22T14:51:00Z",
+  "2026-10-22T15:13:00Z",
+  "2026-10-22T15:58:00Z",
+  "2026-10-22T16:05:00Z",
+  "2026-10-22T16:20:00Z",
+  "2026-10-22T17:12:00Z",
+  "2026-10-22T17:27:00Z",
+  "2026-10-22T18:19:00Z",
+  "2026-10-22T18:34:00Z",
+  "2026-10-22T18:49:00Z",
+  "2026-10-22T19:26:00Z",
+  "2026-10-22T19:41:00Z",
+  "2026-10-22T20:33:00Z",
+  "2026-10-22T20:48:00Z",
+  "2026-10-22T21:40:00Z",
+  "2026-10-22T21:55:00Z",
+  "2026-10-22T22:02:00Z",
+  "2026-10-22T22:47:00Z",
+  "2026-10-22T23:09:00Z",
+  "2026-10-22T23:54:00Z",
+  "2026-10-23T00:01:00Z",
+  "2026-10-23T00:16:00Z",
+  "2026-10-23T00:31:00Z",
+  "2026-10-23T01:08:00Z",
+  "2026-10-23T01:23:00Z",
+  "2026-10-23T02:15:00Z",
+  "2026-10-23T02:30:00Z",
+  "2026-10-23T03:22:00Z",
+  "2026-10-23T03:37:00Z",
+  "2026-10-23T04:29:00Z",
+  "2026-10-23T04:44:00Z",
+  "2026-10-23T05:36:00Z",
+  "2026-10-23T05:51:00Z",
+  "2026-10-23T06:13:00Z",
+  "2026-10-23T06:43:00Z",
+  "2026-10-23T06:58:00Z",
+  "2026-10-23T07:05:00Z",
+  "2026-10-23T07:50:00Z",
+  "2026-10-23T08:12:00Z",
+  "2026-10-23T08:57:00Z",
+  "2026-10-23T09:04:00Z",
+  "2026-10-23T09:19:00Z",
+  "2026-10-23T10:11:00Z",
+  "2026-10-23T10:26:00Z",
+  "2026-10-23T11:18:00Z",
+  "2026-10-23T11:33:00Z",
+  "2026-10-23T12:25:00Z",
+  "2026-10-23T12:40:00Z",
+  "2026-10-23T12:55:00Z",
+  "2026-10-23T13:32:00Z",
+  "2026-10-23T13:47:00Z",
+  "2026-10-23T14:39:00Z",
+  "2026-10-23T14:54:00Z",
+  "2026-10-23T15:01:00Z",
+  "2026-10-23T15:46:00Z",
+  "2026-10-23T16:08:00Z",
+  "2026-10-23T16:53:00Z",
+  "2026-10-23T17:00:00Z",
+  "2026-10-23T17:15:00Z",
+  "2026-10-23T18:07:00Z",
+  "2026-10-23T18:22:00Z",
+  "2026-10-23T18:37:00Z",
+  "2026-10-23T19:14:00Z",
+  "2026-10-23T19:29:00Z",
+  "2026-10-23T20:21:00Z",
+  "2026-10-23T20:36:00Z",
+  "2026-10-23T21:28:00Z",
+  "2026-10-23T21:43:00Z",
+  "2026-10-23T22:35:00Z",
+  "2026-10-23T22:50:00Z",
+  "2026-10-23T23:42:00Z",
+  "2026-10-23T23:57:00Z"
+ ],
+ "first_pr_created": "2026-10-17T00:13:00Z",
+ "last_pr_created": "2026-10-23T23:57:59Z",
+ "matching_prs_per_day_github_search": {
+  "2026-10-17": 184701,
+  "2026-10-18": 185533,
+  "2026-10-19": 203106,
+  "2026-10-20": 211667,
+  "2026-10-21": 212456,
+  "2026-10-22": 206469,
+  "2026-10-23": 195220
+ },
+ "matching_prs_week_total": 1399152,
+ "prs_scanned": 50721,
+ "prs_dropped_from_unfinished_slice": 25,
+ "distinct_repos_scanned": 29522,
+ "prs_touching_a_dependency_file": 5014,
+ "prs_adding_a_package": {
+  "new": {
+   "npm": 340,
+   "pypi": 165,
+   "any": 491
+  },
+  "existing": {
+   "npm": 983,
+   "pypi": 278,
+   "any": 1252
+  },
+  "either": {
+   "npm": 1291,
+   "pypi": 413,
+   "any": 1675
+  }
+ },
+ "distinct_repos_adding": {
+  "new": 454,
+  "existing": 1185
+ },
+ "distinct_packages": {
+  "new": {
+   "npm": 985,
+   "pypi": 452
+  },
+  "existing": {
+   "npm": 1071,
+   "pypi": 361
+  },
+  "either": {
+   "npm": 1618,
+   "pypi": 666
+  }
+ },
+ "pr_notes": {
+  "head_unreadable": 6,
+  "files_unavailable": 25
+ },
+ "category_totals": {
+  "new": {
+   "npm": {
+    "auth": {
+     "packages": 15,
+     "repos": 22
+    },
+    "email": {
+     "packages": 3,
+     "repos": 2
+    },
+    "database/ORM": {
+     "packages": 23,
+     "repos": 54
+    },
+    "payments": {
+     "packages": 2,
+     "repos": 3
+    }
+   },
+   "pypi": {
+    "auth": {
+     "packages": 3,
+     "repos": 4
+    },
+    "email": {
+     "packages": 0,
+     "repos": 0
+    },
+    "database/ORM": {
+     "packages": 6,
+     "repos": 7
+    },
+    "payments": {
+     "packages": 1,
+     "repos": 1
+    }
+   }
+  },
+  "existing": {
+   "npm": {
+    "auth": {
+     "packages": 27,
+     "repos": 39
+    },
+    "email": {
+     "packages": 3,
+     "repos": 8
+    },
+    "database/ORM": {
+     "packages": 23,
+     "repos": 51
+    },
+    "payments": {
+     "packages": 2,
+     "repos": 7
+    }
+   },
+   "pypi": {
+    "auth": {
+     "packages": 8,
+     "repos": 9
+    },
+    "email": {
+     "packages": 0,
+     "repos": 0
+    },
+    "database/ORM": {
+     "packages": 12,
+     "repos": 21
+    },
+    "payments": {
+     "packages": 1,
+     "repos": 1
+    }
+   }
+  }
+ },
+ "top5_by_category": {
+  "new": {
+   "npm": {
+    "auth": [
+     {
+      "package": "@supabase/ssr",
+      "repos": 5
+     },
+     {
+      "package": "better-auth",
+      "repos": 5
+     },
+     {
+      "package": "@node-rs/argon2",
+      "repos": 3
+     },
+     {
+      "package": "google-auth-library",
+      "repos": 2
+     },
+     {
+      "package": "jose",
+      "repos": 2
+     }
+    ],
+    "email": [
+     {
+      "package": "nodemailer",
+      "repos": 1
+     },
+     {
+      "package": "resend",
+      "repos": 1
+     },
+     {
+      "package": "smtp-server",
+      "repos": 1
+     }
+    ],
+    "database/ORM": [
+     {
+      "package": "pg",
+      "repos": 15
+     },
+     {
+      "package": "@supabase/supabase-js",
+      "repos": 13
+     },
+     {
+      "package": "drizzle-orm",
+      "repos": 7
+     },
+     {
+      "package": "@prisma/client",
+      "repos": 6
+     },
+     {
+      "package": "@electric-sql/pglite",
+      "repos": 5
+     }
+    ],
+    "payments": [
+     {
+      "package": "stripe",
+      "repos": 2
+     },
+     {
+      "package": "@revenuecat/purchases-capacitor",
+      "repos": 1
+     }
+    ]
+   },
+   "pypi": {
+    "auth": [
+     {
+      "package": "pyjwt",
+      "repos": 3
+     },
+     {
+      "package": "bcrypt",
+      "repos": 2
+     },
+     {
+      "package": "google-auth",
+      "repos": 1
+     }
+    ],
+    "email": [],
+    "database/ORM": [
+     {
+      "package": "alembic",
+      "repos": 3
+     },
+     {
+      "package": "sqlalchemy",
+      "repos": 3
+     },
+     {
+      "package": "psycopg",
+      "repos": 2
+     },
+     {
+      "package": "asyncpg",
+      "repos": 1
+     },
+     {
+      "package": "psycopg2-binary",
+      "repos": 1
+     }
+    ],
+    "payments": [
+     {
+      "package": "stripe",
+      "repos": 1
+     }
+    ]
+   }
+  },
+  "existing": {
+   "npm": {
+    "auth": [
+     {
+      "package": "jose",
+      "repos": 9
+     },
+     {
+      "package": "better-auth",
+      "repos": 6
+     },
+     {
+      "package": "@node-rs/argon2",
+      "repos": 3
+     },
+     {
+      "package": "@simplewebauthn/server",
+      "repos": 3
+     },
+     {
+      "package": "google-auth-library",
+      "repos": 3
+     }
+    ],
+    "email": [
+     {
+      "package": "nodemailer",
+      "repos": 7
+     },
+     {
+      "package": "@payloadcms/email-nodemailer",
+      "repos": 1
+     },
+     {
+      "package": "smtp-server",
+      "repos": 1
+     }
+    ],
+    "database/ORM": [
+     {
+      "package": "pg",
+      "repos": 13
+     },
+     {
+      "package": "@supabase/supabase-js",
+      "repos": 10
+     },
+     {
+      "package": "supabase",
+      "repos": 6
+     },
+     {
+      "package": "@prisma/adapter-pg",
+      "repos": 3
+     },
+     {
+      "package": "@prisma/client",
+      "repos": 3
+     }
+    ],
+    "payments": [
+     {
+      "package": "stripe",
+      "repos": 6
+     },
+     {
+      "package": "@stripe/stripe-js",
+      "repos": 1
+     }
+    ]
+   },
+   "pypi": {
+    "auth": [
+     {
+      "package": "argon2-cffi",
+      "repos": 2
+     },
+     {
+      "package": "pyjwt",
+      "repos": 2
+     },
+     {
+      "package": "django-allauth",
+      "repos": 1
+     },
+     {
+      "package": "google-auth",
+      "repos": 1
+     },
+     {
+      "package": "google-auth-oauthlib",
+      "repos": 1
+     }
+    ],
+    "email": [],
+    "database/ORM": [
+     {
+      "package": "sqlalchemy",
+      "repos": 8
+     },
+     {
+      "package": "psycopg",
+      "repos": 5
+     },
+     {
+      "package": "alembic",
+      "repos": 4
+     },
+     {
+      "package": "duckdb",
+      "repos": 3
+     },
+     {
+      "package": "psycopg2-binary",
+      "repos": 3
+     }
+    ],
+    "payments": [
+     {
+      "package": "stripe",
+      "repos": 1
+     }
+    ]
+   }
+  }
+ },
+ "top30_all": {
+  "new": {
+   "npm": [
+    {
+     "package": "typescript",
+     "repos": 195
+    },
+    {
+     "package": "@types/node",
+     "repos": 142
+    },
+    {
+     "package": "vitest",
+     "repos": 127
+    },
+    {
+     "package": "react",
+     "repos": 100
+    },
+    {
+     "package": "@types/react",
+     "repos": 99
+    },
+    {
+     "package": "react-dom",
+     "repos": 95
+    },
+    {
+     "package": "@types/react-dom",
+     "repos": 85
+    },
+    {
+     "package": "vite",
+     "repos": 84
+    },
+    {
+     "package": "eslint",
+     "repos": 66
+    },
+    {
+     "package": "@vitejs/plugin-react",
+     "repos": 52
+    },
+    {
+     "package": "zod",
+     "repos": 50
+    },
+    {
+     "package": "tailwindcss",
+     "repos": 42
+    },
+    {
+     "package": "prettier",
+     "repos": 36
+    },
+    {
+     "package": "@playwright/test",
+     "repos": 35
+    },
+    {
+     "package": "typescript-eslint",
+     "repos": 33
+    },
+    {
+     "package": "jsdom",
+     "repos": 31
+    },
+    {
+     "package": "@eslint/js",
+     "repos": 30
+    },
+    {
+     "package": "tsx",
+     "repos": 30
+    },
+    {
+     "package": "@testing-library/react",
+     "repos": 28
+    },
+    {
+     "package": "next",
+     "repos": 28
+    },
+    {
+     "package": "@tailwindcss/vite",
+     "repos": 24
+    },
+    {
+     "package": "lucide-react",
+     "repos": 24
+    },
+    {
+     "package": "globals",
+     "repos": 22
+    },
+    {
+     "package": "astro",
+     "repos": 20
+    },
+    {
+     "package": "wrangler",
+     "repos": 19
+    },
+    {
+     "package": "@testing-library/jest-dom",
+     "repos": 18
+    },
+    {
+     "package": "playwright",
+     "repos": 17
+    },
+    {
+     "package": "@testing-library/user-event",
+     "repos": 16
+    },
+    {
+     "package": "eslint-config-next",
+     "repos": 16
+    },
+    {
+     "package": "pg",
+     "repos": 15
+    }
+   ],
+   "pypi": [
+    {
+     "package": "pytest",
+     "repos": 58
+    },
+    {
+     "package": "numpy",
+     "repos": 33
+    },
+    {
+     "package": "ruff",
+     "repos": 28
+    },
+    {
+     "package": "uvicorn",
+     "repos": 23
+    },
+    {
+     "package": "pyyaml",
+     "repos": 22
+    },
+    {
+     "package": "fastapi",
+     "repos": 20
+    },
+    {
+     "package": "pydantic",
+     "repos": 18
+    },
+    {
+     "package": "httpx",
+     "repos": 16
+    },
+    {
+     "package": "pandas",
+     "repos": 13
+    },
+    {
+     "package": "scipy",
+     "repos": 13
+    },
+    {
+     "package": "pillow",
+     "repos": 12
+    },
+    {
+     "package": "requests",
+     "repos": 12
+    },
+    {
+     "package": "matplotlib",
+     "repos": 11
+    },
+    {
+     "package": "scikit-learn",
+     "repos": 10
+    },
+    {
+     "package": "jsonschema",
+     "repos": 9
+    },
+    {
+     "package": "torch",
+     "repos": 8
+    },
+    {
+     "package": "beautifulsoup4",
+     "repos": 7
+    },
+    {
+     "package": "cryptography",
+     "repos": 7
+    },
+    {
+     "package": "mypy",
+     "repos": 7
+    },
+    {
+     "package": "packaging",
+     "repos": 7
+    },
+    {
+     "package": "pytest-asyncio",
+     "repos": 7
+    },
+    {
+     "package": "anthropic",
+     "repos": 6
+    },
+    {
+     "package": "click",
+     "repos": 6
+    },
+    {
+     "package": "jinja2",
+     "repos": 6
+    },
+    {
+     "package": "onnxruntime",
+     "repos": 6
+    },
+    {
+     "package": "openai",
+     "repos": 6
+    },
+    {
+     "package": "pydantic-settings",
+     "repos": 6
+    },
+    {
+     "package": "pytest-cov",
+     "repos": 6
+    },
+    {
+     "package": "soundfile",
+     "repos": 6
+    },
+    {
+     "package": "typing-extensions",
+     "repos": 6
+    }
+   ]
+  },
+  "existing": {
+   "npm": [
+    {
+     "package": "vitest",
+     "repos": 48
+    },
+    {
+     "package": "zod",
+     "repos": 38
+    },
+    {
+     "package": "@playwright/test",
+     "repos": 30
+    },
+    {
+     "package": "@types/node",
+     "repos": 30
+    },
+    {
+     "package": "jsdom",
+     "repos": 27
+    },
+    {
+     "package": "eslint",
+     "repos": 22
+    },
+    {
+     "package": "vite",
+     "repos": 21
+    },
+    {
+     "package": "@tailwindcss/vite",
+     "repos": 20
+    },
+    {
+     "package": "tailwindcss",
+     "repos": 18
+    },
+    {
+     "package": "@axe-core/playwright",
+     "repos": 17
+    },
+    {
+     "package": "@eslint/js",
+     "repos": 17
+    },
+    {
+     "package": "@testing-library/react",
+     "repos": 16
+    },
+    {
+     "package": "esbuild",
+     "repos": 16
+    },
+    {
+     "package": "prettier",
+     "repos": 15
+    },
+    {
+     "package": "@anthropic-ai/sdk",
+     "repos": 14
+    },
+    {
+     "package": "typescript-eslint",
+     "repos": 14
+    },
+    {
+     "package": "@tanstack/react-query",
+     "repos": 13
+    },
+    {
+     "package": "lucide-react",
+     "repos": 13
+    },
+    {
+     "package": "pg",
+     "repos": 13
+    },
+    {
+     "package": "playwright",
+     "repos": 13
+    },
+    {
+     "package": "react",
+     "repos": 13
+    },
+    {
+     "package": "tsx",
+     "repos": 13
+    },
+    {
+     "package": "@types/react",
+     "repos": 12
+    },
+    {
+     "package": "fake-indexeddb",
+     "repos": 12
+    },
+    {
+     "package": "globals",
+     "repos": 12
+    },
+    {
+     "package": "qrcode",
+     "repos": 12
+    },
+    {
+     "package": "react-dom",
+     "repos": 12
+    },
+    {
+     "package": "typescript",
+     "repos": 12
+    },
+    {
+     "package": "@modelcontextprotocol/sdk",
+     "repos": 11
+    },
+    {
+     "package": "@vitest/coverage-v8",
+     "repos": 11
+    }
+   ],
+   "pypi": [
+    {
+     "package": "numpy",
+     "repos": 10
+    },
+    {
+     "package": "pillow",
+     "repos": 9
+    },
+    {
+     "package": "pyyaml",
+     "repos": 9
+    },
+    {
+     "package": "anthropic",
+     "repos": 8
+    },
+    {
+     "package": "markdown-it-py",
+     "repos": 8
+    },
+    {
+     "package": "pytest",
+     "repos": 8
+    },
+    {
+     "package": "sqlalchemy",
+     "repos": 8
+    },
+    {
+     "package": "certifi",
+     "repos": 7
+    },
+    {
+     "package": "pypdf",
+     "repos": 7
+    },
+    {
+     "package": "uvicorn",
+     "repos": 7
+    },
+    {
+     "package": "opentelemetry-api",
+     "repos": 6
+    },
+    {
+     "package": "tzdata",
+     "repos": 6
+    },
+    {
+     "package": "fastapi",
+     "repos": 5
+    },
+    {
+     "package": "jsonschema",
+     "repos": 5
+    },
+    {
+     "package": "openai",
+     "repos": 5
+    },
+    {
+     "package": "psycopg",
+     "repos": 5
+    },
+    {
+     "package": "alembic",
+     "repos": 4
+    },
+    {
+     "package": "boto3",
+     "repos": 4
+    },
+    {
+     "package": "opentelemetry-exporter-otlp-proto-http",
+     "repos": 4
+    },
+    {
+     "package": "opentelemetry-sdk",
+     "repos": 4
+    },
+    {
+     "package": "packaging",
+     "repos": 4
+    },
+    {
+     "package": "pandas",
+     "repos": 4
+    },
+    {
+     "package": "pydantic",
+     "repos": 4
+    },
+    {
+     "package": "python-dotenv",
+     "repos": 4
+    },
+    {
+     "package": "python-multipart",
+     "repos": 4
+    },
+    {
+     "package": "requests",
+     "repos": 4
+    },
+    {
+     "package": "ruff",
+     "repos": 4
+    },
+    {
+     "package": "scipy",
+     "repos": 4
+    },
+    {
+     "package": "anyio",
+     "repos": 3
+    },
+    {
+     "package": "cryptography",
+     "repos": 3
+    }
+   ]
+  }
+ },
+ "last_run": {
+  "stop_reason": "target reached",
+  "api_calls": 13830,
+  "rest_calls": 7719,
+  "workers_end": 10,
+  "secondary_hits": 0,
+  "cache_hits": 4172,
+  "prs": 50746,
+  "slices_done": 364,
+  "minutes": 264.7,
+  "peak_rss_mb": 106.4,
+  "finished_at": "2026-10-24T18:58:09Z"
+ },
+ "all_runs": {
+  "count": 6,
+  "api_calls": 15363,
+  "minutes": 298.4,
+  "peak_rss_mb": 115.1
+ }
+}
